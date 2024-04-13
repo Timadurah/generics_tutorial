@@ -29,7 +29,7 @@ In this repository, you'll find:
 To get started with our generics tutorial, simply clone this repository to your local machine and explore the contents. Each language-specific folder contains code examples and tutorials tailored to that language's syntax and conventions.
 
 ```
-git clone https://github.com/your_username/generics-tutorial.git
+git clone https://github.com/Timadurah/generics_tutorial.git
 ```
 
 Feel free to dive in, experiment with the examples, and expand your knowledge of generics. We hope this tutorial serves as a valuable resource on your journey to becoming a proficient programmer!
@@ -40,4 +40,10 @@ We welcome contributions from the community! If you have any improvements, corre
 
 Happy coding!
 
-**[Your Name/Team Name]**
+**[Tim Adutah]**
+
+##Linkedin if you like me to join your team
+
+```
+https://www.linkedin.com/in/tim-adurah/
+```
